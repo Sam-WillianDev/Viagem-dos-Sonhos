@@ -1,0 +1,30 @@
+header p{
+    color: antiquewhite;
+    
+}
+
+
+h1{
+     font-size: 65px ;
+     color: white;;
+     
+}
+
+h2{
+    font-size: 24px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: rgb(246, 246, 39) ;
+    text-shadow: 2px 2px 2px black;
+   
+}
+
+
+
+
