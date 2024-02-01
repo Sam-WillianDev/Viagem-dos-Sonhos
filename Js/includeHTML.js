@@ -19,3 +19,13 @@ function includeHTML() {
       xhttp.send();
     }
   }
+
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (rolagem) {
+        rolagem.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
