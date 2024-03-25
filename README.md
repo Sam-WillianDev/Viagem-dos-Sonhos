@@ -11,5 +11,5 @@ Bootstrap
 Você pode encontrar o código-fonte deste projeto no repositório <a href="https://github.com/Sam-WillianDev/Viagem-dos-Sonhos">Git</a>.
 
 <h1>GitHub Pages</h1>
-O projeto está hospedado no <a href="https://github.com/Sam-WillianDev/Viagem-dos-Sonhos">Git Pages,</a> onde você pode visualizar e interagir com o site.
+O projeto está hospedado no <a href="https://github.com/Sam-WillianDev/Viagem-dos-Sonhos">GitHub Pages,</a> onde você pode visualizar e interagir com o site.
 
