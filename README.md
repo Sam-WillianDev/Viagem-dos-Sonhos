@@ -1,4 +1,4 @@
-<h1>Site de Viagem dos Sonhos</h1>
+<h1>Site Viagem dos Sonhos</h1>
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para criar um site de viagens. Além de cumprir os requisitos do curso, utilizei esta oportunidade para aprimorar minhas habilidades em versionamento de código usando Git, buscando explorar conceitos além do escopo do projeto original.
 
 <h1>Tecnologias Utilizadas</h1>
