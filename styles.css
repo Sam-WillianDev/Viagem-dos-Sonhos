@@ -26,9 +26,8 @@ h2{
 }
 
 .carousel-caption h5{
-    font-family: monospace;
+    padding-bottom: 300px;
     font-size: 80px;
-    color: rgb(246, 246, 39) ;
     text-shadow: 2px 2px 2px black;
    
 }
